@@ -1,2 +1,2 @@
 # Python
-<h2>This repository demonstrates my proficiency in Python for data analysis, data manipulation, and statistical analysis.</h2>
+<h2>This repository demonstrates my proficiency in Python for data analysis and data manipulation.</h2>
